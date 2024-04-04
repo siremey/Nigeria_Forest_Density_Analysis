@@ -1,5 +1,5 @@
 # Nigeria_Forest_Density_Analysis
-A Pet project, Analyzing Density of Forest Cover in Nigeria.
+A Pet project, Analyzing Density of Forest Cover in Nigeria using Google Earth Engine.
 
 The project make use of the JAXA EORC Global 4-class PALSAR-2/PALSAR Forest/Non-Forest Map to assess dense forest distribution in Nigeria. Sub-Analyses was focused on SouthEast, SouthSouth, and North East Nigeria. result from the the analyses shows that Taraba state in North eastern Nigeria and Cross River state in south south Nigeria have the largest land areas covered with dense forest.
 
