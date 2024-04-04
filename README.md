@@ -14,7 +14,7 @@ Understanding the spatial distribution of dense forests is critical for effectiv
 Methodology:
 The study utilizes remote sensing data accessed through Google Earth Engine, focusing on the FAO GAUL and JAXA EORC datasets. Utilizing the GEEMAP Python API, the analysis zooms in on the South East, South South, and North Eastern regions of Nigeria. The percentage of dense forest cover relative to total land area is calculated for each state, with particular attention paid to states with significant forest cover. Cartographic maps are created using Quantum Geographic Information System (QGIS), and graphical representations such as bar graphs and pie charts are generated to visually illustrate variations in forest cover among states.
 
-See Analysis [here](nigeria_forest_cover_analysis.ipynb)!
+See Analysis [here](nigeria_forest_cover_analysis.ipynb)<br>
 See [here](nigeria_forest_cover_analysis.ipynb) Analysis with resulting images embedded
 
 Results:
