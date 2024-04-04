@@ -16,7 +16,7 @@ The study utilizes remote sensing data accessed through Google Earth Engine, foc
 
 Results:<br>
 Please refer to the analysis provided [here](analysis_script/nigeria_forest_cover_analysis.ipynb)<br>
-Kindly review the analysis presented [here](analysis_script/nigeria_forest_cover_analysis_img.ipynb), which includes embedded images displaying the results.<br>
+Kindly review the analysis presented [here](analysis_script/nigeria_forest_cover_analysis_img.ipynb), for embedded images displaying the results.<br>
 The analysis reveals that Taraba state in North Eastern Nigeria and Cross River state in the South South exhibit the largest land areas covered with dense forest. However, Taraba's dense forest cover constitutes less than 18% of its total land area, emphasizing the need to consider landmass in forest cover assessments. Cross River, in contrast, boasts the highest percentage of dense forest cover relative to its landmass, highlighting its ecological significance. Only three states, Cross River, Bayelsa, and Osun state have above 20% of their landmass covered by dense forest, underscoring the importance of targeted conservation efforts.
 
 Conclusion:<br>
