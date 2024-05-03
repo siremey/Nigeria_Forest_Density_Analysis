@@ -1,13 +1,15 @@
 # Nigeria_Forest_Density_Analysis
-A Pet project. Analyzing Dense Forest Cover in Nigeria using Google Earth Engine.
 
 
 Researcher:  Emeka Orji
 Presentation Title: Using the GEEMAP Python API for Google Earth Engine to Assess Dense Forest Distribution in Nigerian States: A Geospatial Analysis Utilizing the Remote Sensing Data
 Research focus: Forest ecosystem, conservation, and sustainable use
 Level: Masters
-Presentation Type: Oral Presentation
+
+
 Abstract:
+
+
 Using the GEEMAP Python API for Google Earth Engine to Assess Dense Forest Distribution in Nigerian States: A Geospatial Analysis Using Remote Sensing Data
 Emeka Orji, University of Ibadan
 
