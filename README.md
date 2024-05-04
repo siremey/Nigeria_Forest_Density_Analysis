@@ -2,8 +2,7 @@
 
 
 Researcher:  Emeka Orji<br>
-Presentation Title: Using the GEEMAP Python API for Google Earth Engine to Assess Dense Forest<br>
-Distribution in Nigerian States: A Geospatial Analysis Utilizing the Remote Sensing Data<br>
+Presentation Title: Using the GEEMAP Python API for Google Earth Engine to Assess Forest Cover Distribution in Nigerian States: A Geospatial Analysis Utilizing the Remote Sensing Data<br>
 Research focus: Forest ecosystem, conservation, and sustainable use<br>
 Level: Masters
 
