@@ -23,4 +23,4 @@ The spatial distribution of forest cover in Nigeria is assessed using the global
 The [GEEMAP Python API](analysis_script/nigeria_forest_cover_analysis_img.ipynb) is used to compute the forest cover percentage of each state's total land area. According to the data, the states with the largest forest cover are Cross River in the South and Taraba in Northeastern Nigeria. However, forest cover occupies less than 18% of Taraba's land area, highlighting the significance of considering landmass percentage when estimating forest cover.
 
 
-Only three Nigerian states have more than 20% forest cover, underlining the urgency of targeted conservation efforts in the remaining states to meet the FAO's recommended forest cover threshold.
+Only four Nigerian states have more than 20% forest cover, underlining the urgency of targeted conservation efforts in the remaining states to meet the FAO's recommended forest cover threshold.
